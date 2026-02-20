@@ -3,8 +3,12 @@ import xml.etree.ElementTree as ET
 import re
 import tkinter as tk
 from tkinter import filedialog
-
+from art import text2art
 def main():
+    print(text2art('Mana'))
+    print('Estrazione Nomi Fragment')
+    print('\n----------------------------')
+    
     root = tk.Tk()
     root.withdraw()
     
@@ -48,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

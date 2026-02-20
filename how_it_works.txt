@@ -1,4 +1,10 @@
 Il file se runnato prende in input un file di tipo XDP, estrae i nomi di tutti i Fragment presenti e li salva su un file di testo sul desktop denominato NOME_FILE_tags.
 
 
+
 - Mana:)
+ __  __
+|  \/  |  __ _  _ __    __ _
+| |\/| | / _` || '_ \  / _` |
+| |  | || (_| || | | || (_| |
+|_|  |_| \__,_||_| |_| \__,_|
